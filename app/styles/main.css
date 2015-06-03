@@ -79,7 +79,7 @@ a:hover {text-decoration: none;}
   transition: 0.2s ease all;
 }
 .open .arrow {
-  transform: rotate(-180deg);
+  transform: rotate(90deg) translate(5px,8px);
 }
 
 .childContentContainer {
