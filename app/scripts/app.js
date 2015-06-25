@@ -10,7 +10,7 @@
  */
 angular
   .module('ambassadorApp', [
-    // 'ngAnimate',
+    'ngAnimate',
     // 'ngCookies',
     // 'ngResource',
     'ngRoute',

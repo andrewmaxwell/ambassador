@@ -15,5 +15,8 @@
     "angular-mocks": "^1.3.0"
   },
   "appPath": "app",
-  "moduleName": "ambassadorApp"
+  "moduleName": "ambassadorApp",
+  "resolutions": {
+    "angular": "1.4.1"
+  }
 }

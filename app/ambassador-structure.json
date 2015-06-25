@@ -1,0 +1,100 @@
+[
+	{
+		"title": "Who We Are",
+		"image": "chalkArrow.jpg",
+		"color": "#81a63e",
+		"children": [
+			{
+				"title": "Our Mission",
+				"image": "hdr_about1.jpg",
+				"text": "Daugherty Business Solutions is a consulting firm like you’ve never experienced. We don’t simply prescribe technology solutions. We solve business problems for some of the largest organizations on the planet."
+			},
+			{
+				"title": "Our History",
+				"image": "hdr_about_awards.jpg",
+				"text": "We’re proud of the good work we do for our clients, and for our community. Of course, we don’t do it for the awards – but are flattered when our neighbors and peers recognize our efforts."
+			},
+			{
+				"title": "Our Culture",
+				"image": "hdr_about_leadership.jpg"
+			}
+		]
+	},
+	{
+		"title": "What We Do",
+		"image": "phone.jpg",
+		"color": "#0c2c4b",
+		"children": [
+			{
+				"title": "IT Services",
+				"image": "hdr_services_mgtconsulting.jpg",
+				"children": [
+					{
+						"title": "Custom Software Development"
+					},
+					{
+						"title": "Mobility"
+					},
+					{
+						"title": "Business Analysis"
+					},
+					{
+						"title": "Business Restructuring"
+					},
+					{
+						"title": "Data Warehouse"
+					},
+					{
+						"title": "Data Analytics"
+					}
+				]
+			},
+			{
+				"title": "Training",
+				"image": "hdr_services_mobile_consulting1.jpg"
+			},
+			{
+				"title": "Partnerships",
+				"image": "hdr_services_business_intelligence.jpg"
+			},
+			{
+				"title": "Sponsorships",
+				"image": "hdr_services_custom_development1.jpg"
+			},
+			{
+				"title": "Clients",
+				"image": "hdr_services_outsourcing.jpg"
+			}
+		]
+	},
+	{
+		"title": "Awards & Recognition",
+		"image": "man.jpg",
+		"color": "#6f6f6f",
+		"children": [
+			{
+				"title": "This is serious!",
+				"image": "Emotional.Business.Phone.Talk.jpg"
+			},
+			{
+				"title": "Where am I? An Airport?",
+				"image": "gov_rf.jpg"
+			},
+			{
+				"title": "Exciting",
+				"image": "what-are-the-top-lies-men-tell-women-448360899-sep-20-2012-1-600x400.jpg"
+			}
+		]
+	},
+	{
+		"title": "Our Community",
+		"image": "",
+		"color": "#d5d8d7",
+		"children": [
+			{
+				"title": "Something goes here.",
+				"image": ""
+			}
+		]
+	}
+]
